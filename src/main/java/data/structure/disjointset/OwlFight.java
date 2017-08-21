@@ -1,4 +1,4 @@
-package datastructure.disjointset;
+package data.structure.disjointset;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
