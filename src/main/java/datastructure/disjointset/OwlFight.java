@@ -6,8 +6,8 @@ import java.io.PrintWriter;
 import java.io.StreamTokenizer;
 
 /**
- * The problem statement can be found here 
- * <a href="https://www.hackerearth.com/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/practice-problems/algorithm/owl-fight/">Owl Fight</a>
+ * The problem statement can be found
+ * <a href="https://www.hackerearth.com/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/practice-problems/algorithm/owl-fight/">here</a>
  * 
  * @author viveksingh
  */
